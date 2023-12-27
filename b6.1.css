@@ -1,0 +1,8 @@
+.color{
+    color: red;
+}
+    p{
+        max-width: 1000px;
+        overflow: hidden;
+        word-wrap: break-word;
+}
